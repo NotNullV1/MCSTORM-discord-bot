@@ -1,0 +1,28 @@
+{
+	"botToken": "YOUR_BOT_TOKEN_HERE",
+	"attackChannelId": "YOUR_ATTACK_CHANNEL_HERE",
+	"mcstormApiToken": "AG82PBNBV0LQJT6RF1LKR3Y5CFG5DEKWF79A2AZ9REGYC51J7PNR7X4NZSWDO2IY",
+	"plans": [
+		{
+			"tarrif": "free",
+			"time": 30,
+			"network": 1,
+			"concurrent": 1,
+			"role": "PLAN_ROLE_ID_HERE"
+		},
+		{
+			"tarrif": "basic",
+			"time": 60,
+			"network": 2,
+			"concurrent": 1,
+			"role": "PLAN_ROLE_ID_HERE"
+		},
+		{
+			"tarrif": "premium",
+			"time": 120,
+			"network": 2,
+			"concurrent": 2,
+			"role": "PLAN_ROLE_ID_HERE"
+		}
+	]
+}
